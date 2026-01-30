@@ -58,6 +58,7 @@ function LoginPage() {
         justifyContent: 'center',
         alignItems: 'center',
         py: { xs: 2, md: 4 },
+        backgroundColor: '#232323',
       }}
     >
       <Container maxWidth="sm">
